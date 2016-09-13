@@ -1,0 +1,6 @@
+Clock Program Project Ideas
+Use milasecode to move the secode hand (1000milsec = 1 sec)
+	- As the secode move, it moves the minuse hand (60sec = 1min)
+		-Then the minuse will move the hour hand (60min = 1 hour)
+Use mod(%) to reset the hour hand from reaching to 12 hours
+ 
